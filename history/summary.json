@@ -1,5 +1,23 @@
 [
   {
+    "name": "AI Service",
+    "url": "https://asia-southeast1-bexly-app.cloudfunctions.net/aiHealthCheck",
+    "icon": "https://icons.duckduckgo.com/ip3/asia-southeast1-bexly-app.cloudfunctions.net.ico",
+    "slug": "ai-service",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1605,
+    "timeDay": 1605,
+    "timeWeek": 1605,
+    "timeMonth": 1605,
+    "timeYear": 1605,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Telegram Bot",
     "url": "https://asia-southeast1-bexly-app.cloudfunctions.net/telegramWebhook",
     "icon": "https://icons.duckduckgo.com/ip3/asia-southeast1-bexly-app.cloudfunctions.net.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 290,
+    "timeDay": 290,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   }
 ]
