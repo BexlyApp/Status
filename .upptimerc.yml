@@ -2,6 +2,12 @@ owner: BexlyApp
 repo: Status
 
 sites:
+  - name: AI Service
+    url: https://asia-southeast1-bexly-app.cloudfunctions.net/aiHealthCheck
+    method: GET
+    expectedStatusCodes:
+      - 200
+
   - name: Telegram Bot
     url: https://asia-southeast1-bexly-app.cloudfunctions.net/telegramWebhook
     method: GET
