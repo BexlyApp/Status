@@ -22,18 +22,20 @@
     "url": "https://asia-southeast1-bexly-app.cloudfunctions.net/telegramWebhook",
     "icon": "https://icons.duckduckgo.com/ip3/asia-southeast1-bexly-app.cloudfunctions.net.ico",
     "slug": "telegram-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 234,
-    "timeWeek": 226,
-    "timeMonth": 222,
-    "timeYear": 230,
-    "dailyMinutesDown": {}
+    "time": 290,
+    "timeDay": 1544,
+    "timeWeek": 555,
+    "timeMonth": 304,
+    "timeYear": 290,
+    "dailyMinutesDown": {
+      "2026-01-21": 0
+    }
   },
   {
     "name": "Messenger Bot",
