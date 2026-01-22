@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1372,
-    "timeDay": 1555,
+    "time": 1369,
+    "timeDay": 1275,
     "timeWeek": 1329,
-    "timeMonth": 1355,
-    "timeYear": 1372,
+    "timeMonth": 1344,
+    "timeYear": 1369,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/asia-southeast1-bexly-app.cloudfunctions.net.ico",
     "slug": "telegram-bot",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 1544,
-    "timeWeek": 555,
-    "timeMonth": 304,
-    "timeYear": 290,
+    "uptime": "98.94%",
+    "uptimeDay": "58.27%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.94%",
+    "time": 339,
+    "timeDay": 2681,
+    "timeWeek": 839,
+    "timeMonth": 375,
+    "timeYear": 339,
     "dailyMinutesDown": {
-      "2026-01-21": 0
+      "2026-01-22": 50,
+      "2026-01-21": 551
     }
   },
   {
@@ -49,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 232,
-    "timeWeek": 222,
+    "timeDay": 246,
+    "timeWeek": 224,
     "timeMonth": 221,
     "timeYear": 223,
     "dailyMinutesDown": {}
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 65,
-    "timeWeek": 117,
-    "timeMonth": 112,
-    "timeYear": 113,
+    "time": 114,
+    "timeDay": 144,
+    "timeWeek": 120,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   }
 ]
