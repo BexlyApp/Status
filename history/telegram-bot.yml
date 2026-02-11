@@ -1,7 +1,7 @@
 url: https://asia-southeast1-bexly-app.cloudfunctions.net/telegramWebhook
 status: down
-code: 500
-responseTime: 2920
-lastUpdated: 2026-02-10T23:45:11.153Z
+code: 404
+responseTime: 189
+lastUpdated: 2026-02-11T23:39:53.740Z
 startTime: 2025-12-13T14:38:53.166Z
 generator: Upptime <https://github.com/upptime/upptime>
